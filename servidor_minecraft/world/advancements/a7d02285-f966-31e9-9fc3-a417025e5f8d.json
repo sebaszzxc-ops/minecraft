@@ -1,0 +1,1057 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "aeo:root": {
+    "criteria": {
+      "ticky": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "simplymore:root": {
+    "criteria": {
+      "requirement": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "warp_portals:warp_portals": {
+    "criteria": {
+      "trigger": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "alienevo:alien_evolution": {
+    "criteria": {
+      "tick": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "global:notnull": {
+    "criteria": {
+      "trigger": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/decorations/tailoring_bench": {
+    "criteria": {
+      "unlock_right_away": "2025-12-26 19:51:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-26 19:51:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-26 19:51:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-26 19:51:05 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-12-26 19:51:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-12-26 19:52:03 +0000",
+      "minecraft:stony_shore": "2025-12-26 19:51:05 +0000",
+      "minecraft:ocean": "2025-12-26 19:51:41 +0000",
+      "minecraft:plains": "2025-12-26 19:51:17 +0000"
+    },
+    "done": false
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-12-26 19:51:42 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-12-26 19:51:42 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-12-26 19:51:42 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-12-26 19:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-12-26 19:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-12-26 19:51:42 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-12-26 19:51:42 +0000",
+      "inv_changed-diamond": "2025-12-26 19:51:42 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/japanese_maple_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/yucca_palm_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/rubber_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/transportation/hemlock_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_drakkar": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-12-26 19:51:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-12-26 19:53:09 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-12-26 19:53:09 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-12-26 19:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-12-26 19:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-12-26 19:53:09 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-12-26 19:53:09 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/blue_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_halfstairs_oak": {
+    "criteria": {
+      "has_oak_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/white_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/gray_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/black_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/lime_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairs_oak": {
+    "criteria": {
+      "has_oak_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/purple_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/cyan_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/yellow_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/magenta_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/red_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/orange_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/light_blue_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/green_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/pink_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/brown_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "interiors:recipes/building_blocks/crafting/cushion/light_gray_cushion": {
+    "criteria": {
+      "has_planks": "2025-12-26 19:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_birch": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_acacia": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_warped": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_spruce": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_crimson": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_mangrove": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_jungle": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_warped": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_cherry": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_oak": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_bamboo": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_crimson": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_birch": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_birch": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_jungle": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_acacia": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_dark_oak": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_cherry": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/paraglider": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_cherry": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_crimson": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_jungle": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_warped": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_crimson": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_acacia": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_oak": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_spruce": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_jungle": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_mangrove": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_warped": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_bamboo": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_dark_oak": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_spruce": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_dark_oak": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_bamboo": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_spruce": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_birch": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_acacia": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "terrestria:recipes/tools/log_turner": {
+    "criteria": {
+      "has_sticks": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_dark_oak": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_bamboo": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_staircase_oak": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/small_stairail_oak": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_cherry": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/stairail_mangrove": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "aestheticstairs:recipes/decorations/staircase_mangrove": {
+    "criteria": {
+      "has_stick": "2025-12-26 19:53:32 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
